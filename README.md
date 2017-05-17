@@ -14,7 +14,7 @@ URL: **https://infinite-peak-15014.herokuapp.com/**
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](/myFirstApp/walkthrough.gif)
+![Video Walkthrough](walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
